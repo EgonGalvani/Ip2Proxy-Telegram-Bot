@@ -14,14 +14,14 @@ public class Commands {
 	public static final String infoCommand = commandInitChar + "info"; 
 
 	// IsProxy command 
-	public static final String isProxyComamnd = commandInitChar + "isProxy"; 
+	public static final String isProxyComamnd = commandInitChar + "isproxy"; 
 	
 	// Charts command
 	public static final String chartsCommand = commandInitChar + "charts"; 
 	
 	// Proxy type chart command
-	public static final String typeChartCommand = commandInitChar + "typeChart";
+	public static final String typeChartCommand = commandInitChar + "typechart";
 	
 	// Proxy location chart command
-	public static final String locationChartCommand = commandInitChar + "locationChart"; 
+	public static final String locationChartCommand = commandInitChar + "locationchart"; 
 }
