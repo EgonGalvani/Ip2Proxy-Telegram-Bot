@@ -7,7 +7,7 @@ Installation
 - Download this project zip 
 - Extract it  
 - Go to [Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather) 
-- Copy these [Commands] (botFatherCommands.txt)
+- Copy these [Commands] (BotFatherCommands.txt)
 - Open the project with and ide 
 - Include external jars from the directory: [External Jars](external%20jars)
 - Fill the field "botToken" and "botUsername" in [Bot Settings File](src/BotSettings.java) with data got from [Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather) 
@@ -48,8 +48,13 @@ The databases can be downloaded at:
 
 Screenshots 
 ----------- 
-
-
+<p align="center">
+ <img src="screenshots/ProxyBot(1).jpeg" width="176" height="308" />
+ <img src="screenshots/ProxyBot(2).jpeg" width="176" height="308" />
+ <img src="screenshots/ProxyBot(3).jpeg" width="176" height="308" />
+ <img src="screenshots/ProxyBot(6).jpeg" width="176" height="308" />
+ <img src="screenshots/ProxyBot(7).jpeg" width="176" height="308" />
+</p>
 
 Avaibility 
 ----------
