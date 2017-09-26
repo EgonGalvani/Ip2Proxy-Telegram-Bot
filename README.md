@@ -23,8 +23,8 @@ Every session starts with the */start* command. At this point you can select fro
 
 ***/Charts*** command returns a keyboard throught which you can choose between: 
 - */typeChart* 
-- */locationChart* 
-The first command will send you an image of a chart with the percentage of every type of proxy, the other one will return a chart with different proxies location (in this case only countries with a minimun of 2% of total proxies create a section, otherwise they are added on "Other" section) 
+- */locationChart*   
+  The first command will send you an image of a chart with the percentage of every type of proxy, the other one will return a chart with different proxies location (in this case only countries with a minimun of 2% of total proxies create a section, otherwise they are added on "Other" section) 
  
  ***/Info*** command returns some infos about database version
  
@@ -58,5 +58,5 @@ Screenshots
 
 Avaibility 
 ----------
-This bot will be hosted and will be online between 01/10/2017 and 15/10/2017 at this [URL]()
-(To try this bot after this period please send me an email) 
+This bot will be hosted and will be online between 01/10/2017 and 15/10/2017 at this [URL](https://web.telegram.org/#/im?p=@IsProxyBot).  
+To try this bot after this period please send me an email.
