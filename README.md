@@ -7,7 +7,7 @@ Installation
 - Download this project zip 
 - Extract it  
 - Go to [Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather) 
-- Copy these [Commands] (BotFatherCommands.txt)
+- Copy these [Bot Father Commands](BotFatherCommands.txt)
 - Open the project with and ide 
 - Include external jars from the directory: [External Jars](external%20jars)
 - Fill the field "botToken" and "botUsername" in [Bot Settings File](src/BotSettings.java) with data got from [Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather) 
