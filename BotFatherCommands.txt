@@ -1,0 +1,11 @@
+/newbot
+ip2ProxyBot
+/setdescription 
+Check if an ip is a proxy and get statistics and charts about proxies all around the world.
+/setcommands
+start - Start a new session
+isproxy - Check if an ip is proxy 
+charts - Get statistics charts
+info - Get info about proxy database 
+typechart - Get a chart about proxy types all around the world
+locationchart - Get a chart about proxy locations all around the world
