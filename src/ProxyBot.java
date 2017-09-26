@@ -115,14 +115,12 @@ public class ProxyBot extends TelegramLongPollingBot {
 					try {
 						ProxyResult result = ip2Proxy.GetAll(text);
 					
-						if(result.getIs_Proxy() == 1) {
+						if(result.getIs_Proxy() == 1) 
 							reply.setText(result.toString()); 
-							reply.setReplyMarkup(new Keyboards.InitialKeyboard()); 
-							
-							
-							
-						} else 
+						else 
 							reply.setText("The ip you have inserted is not a proxy."); 
+						
+						reply.setReplyMarkup(new Keyboards.InitialKeyboard()); 
 					} catch (IOException e) {
 						
 						e.printStackTrace();
