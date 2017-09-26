@@ -43,8 +43,8 @@ Databases
 ---------
 This library requires IP2Proxy BIN database to check if an IP address is a proxy and  CSV database to create statistics charts. 
 The databases can be downloaded at: 
-- [Free IP2Proxy BIN Data](http://lite.ip2location.com)
-- [Commercial IP2Proxy BIN Data](http://www.ip2location.com/proxy-database)
+- [Free IP2Proxy Data](http://lite.ip2location.com)
+- [Commercial IP2Proxy Data](http://www.ip2location.com/proxy-database)
 
 Screenshots 
 ----------- 
