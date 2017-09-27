@@ -56,7 +56,7 @@ Screenshots
  <img src="screenshots/ProxyBot(7).jpeg" width="176" height="308" />
 </p>
 
-Avaibility 
+Availability
 ----------
 This bot will be hosted and will be online between 01/10/2017 and 15/10/2017 at this [URL](https://web.telegram.org/#/im?p=@IsProxyBot).  
 To try this bot after this period please send me an email.
