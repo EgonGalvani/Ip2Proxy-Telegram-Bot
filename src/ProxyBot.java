@@ -105,6 +105,9 @@ public class ProxyBot extends TelegramLongPollingBot {
 						
 							reply.setReplyMarkup(new Keyboards.InitialKeyboard()); 
 						break; 
+					default: 
+						reply.setText("Unsupported command."); 
+						reply.setReplyMarkup(new Keyboards.InitialKeyboard()); 
 				}
 				
 				replyMessage(reply);
