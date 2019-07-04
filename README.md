@@ -1,4 +1,4 @@
-# Ip2Proxy-Telegram-Bot
+# Ip2Proxy-Telegram-Bot [WINNER OF IP2LOCATION PROGRAMMING CONTEST 2018]
 
 Ip2ProxyBot is a modern telegram bot that uses both BIN and CSV ip2Proxy databases to retrieve informations and statistics about proxies. 
 
